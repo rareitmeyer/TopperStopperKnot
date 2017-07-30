@@ -55,11 +55,11 @@ and feed it through the left side loop.
 Hold the knot and pull on the right side loop until the left side loop
 is tight and the right side loop is loose.
 
-![Pull right loop to tighten left](04_pull_right_loop_to_tighten_left_loop.jpg]
+![Pull right loop to tighten left](04_pull_right_loop_to_tighten_left_loop.jpg)
 
 When this step is done, the knot should look like this.
 
-![Left loop tight](05_left_loop_tight.jpg]
+![Left loop tight](05_left_loop_tight.jpg)
 
 
 ## Fold right loop under
@@ -102,5 +102,8 @@ Bring that loop back to the top of the knot.
 Pull on the line that goes back to the clutch to pop the loop out.
 
 
+# License
 
+This knot (and documentation) is released under the MIT license.
+Essentially, no warranty, use as you wish, but I'd like credit.
 
